@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kareem</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Flutter, Clean Architecture, state management**
+- 🌱 I’m currently learning **Flutter, Web Development, Clean Architecture, Responsive Design**
 
 - 📫 How to reach me **kareemmahfouz01@gmail.com**
 
